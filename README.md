@@ -1,2 +1,2 @@
-Netflix Clone With HTML and CSS
-karim-elraay.github.io/Netflix-clone/
+Netflix Clone With HTML and CSS.
+https://karim-elraay.github.io/Netflix-clone/
